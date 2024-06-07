@@ -1,0 +1,1 @@
+this project is to demonstrate my basic HTML skills up to this point and also to get comfortable with git
